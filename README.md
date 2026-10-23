@@ -6,7 +6,8 @@ Questo progetto sviluppa e analizza metodi iterativi per la risoluzione di siste
 
 * **`progetto_gradiente.pdf`**: Report completo generato dal Live Script, contenente il quadro teorico, il codice, i grafici di convergenza e i risultati sperimentali già renderizzati (consultabile direttamente senza eseguire il codice).
 * **`progetto_gradiente.mlx`**: Live Script MATLAB eseguibile per riprodurre o estendere i test numerici.
-* 
+
+
 ## Contenuto del Progetto
 
 Il Live Script (`progetto_gradiente.mlx`) (visibile anche nel  implementa e confronta le seguenti metodologie numeriche:
